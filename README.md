@@ -6,3 +6,5 @@ Scrimba SOLO Project - Unit Converter App.
 - Converts liters to gallons and gallons to liters
 
 Coded from scratch from Ilian Georgiev 💯
+
+Pure HTML,CSS,JAVASCRIPT
